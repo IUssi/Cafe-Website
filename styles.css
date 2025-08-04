@@ -95,6 +95,7 @@ header{
     display: flex;
     align-items: center;
     column-gap: 1rem;
+    position: relative;
 }
 .nav-icons .bx {
     color: var(--bg-color);
@@ -735,4 +736,5 @@ footer {
         font-size: 1.4rem;
     }
 }
+
 
