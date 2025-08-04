@@ -1,3 +1,16 @@
+function handleFormSubmit(event) {
+    event.preventDefault();
+    
+    const name = document.querySelector('input[placeholder="Your Name"]').value;
+    const people = document.querySelector('input[placeholder="People"], input[placeholder="Number of People"]').value;
+    
+    if (name && people) {
+        alert(`Thank you ${name}! We'll contact you about your reservation for ${people} people.`);
+        event.target.reset(); // Clear the form
+    } else {
+        alert('Please fill in all fields.');
+    }
+}
 // Shopping Cart Implementation
 let cart = [];
 let cartIcon = document.querySelector('.bx-shopping-bag');
@@ -168,3 +181,4 @@ animate.reveal(".ser-box, .product-box, .team-box, .book-data", {
 document.querySelector('#search-icon').onclick = () =>{
     search.classList.toggle('active');
 };
+
