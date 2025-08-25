@@ -561,6 +561,10 @@ header{
     background: var(--second-color);
     transition: 0.4s all cubic-bezier(0.075, 0.82, 0.165, 1);
 }
+button.book-btn {
+    border: none;
+    cursor: pointer;
+}
 .book-data p {
     font-size: 0.8rem;
     font-weight: 500;
@@ -736,5 +740,6 @@ footer {
         font-size: 1.4rem;
     }
 }
+
 
 
