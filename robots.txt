@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /account/
+Allow: /products/
+Allow: /categories/
+Crawl-delay: 1
+
+Sitemap: https://iussi.github.io/Cafe-Website/sitemap.xml
