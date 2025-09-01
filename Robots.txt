@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iussi.github.io/Cafe-Website/sitemap.xml
