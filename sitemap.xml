@@ -6,11 +6,32 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
   <loc>https://iussi.github.io/Cafe-Website/</loc>
   <lastmod>2025-08-25T09:50:13+00:00</lastmod>
 </url>
-
-
+<url>
+  <loc>https://iussi.github.io/Cafe-Website/home.html</loc>
+  <lastmod>2025-08-25T09:50:13+00:00</lastmod>
+</url>
+<url>
+  <loc>https://iussi.github.io/Cafe-Website/services.html</loc>
+  <lastmod>2025-08-25T09:50:13+00:00</lastmod>
+</url>
+<url>
+  <loc>https://iussi.github.io/Cafe-Website/products.html</loc>
+  <lastmod>2025-08-25T09:50:13+00:00</lastmod>
+</url>
+<url>
+  <loc>https://iussi.github.io/Cafe-Website/team.html</loc>
+  <lastmod>2025-08-25T09:50:13+00:00</lastmod>
+</url>
+<url>
+  <loc>https://iussi.github.io/Cafe-Website/review.html</loc>
+  <lastmod>2025-08-25T09:50:13+00:00</lastmod>
+</url>
+<url>
+  <loc>https://iussi.github.io/Cafe-Website/book.html</loc>
+  <lastmod>2025-08-25T09:50:13+00:00</lastmod>
+</url>
 </urlset>
